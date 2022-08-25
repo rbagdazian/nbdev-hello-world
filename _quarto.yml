@@ -16,20 +16,20 @@ format:
 
 website:
   title: "nbdev-hello-world"
-  site-url: "https://rbagdazian.github.io/nbdev-hello-world"
+  site-url: "https://fastai.github.io/nbdev-hello-world"
   description: "Hello world from nbdev"
   twitter-card: true
   open-graph: true
   reader-mode: true
   repo-branch: master
-  repo-url: "https://github.com/rbagdazian/nbdev-hello-world"
+  repo-url: "https://github.com/fastai/nbdev-hello-world"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/rbagdazian/nbdev-hello-world"
+        href: "https://github.com/fastai/nbdev-hello-world"
   sidebar:
     style: "floating"
 
