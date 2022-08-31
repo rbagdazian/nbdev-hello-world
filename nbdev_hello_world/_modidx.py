@@ -5,7 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://fastai.github.io',
                 'git_url': 'https://github.com/fastai/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': { 'nbdev_hello_world.core': { 'nbdev_hello_world.core.foo': ( 'https://fastai.github.io/core.html#foo',
-                                                                        'https://github.com/fastai/nbdev-hello-world/blob/master/nbdev_hello_world/core.py#L13'),
-                                        'nbdev_hello_world.core.say_hello': ( 'https://fastai.github.io/core.html#say_hello',
-                                                                              'https://github.com/fastai/nbdev-hello-world/blob/master/nbdev_hello_world/core.py#L7')}}}
+  'syms': { 'nbdev_hello_world.core': { 'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.say_hello': ('core.html#say_hello', 'nbdev_hello_world/core.py')}}}
